@@ -2,7 +2,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
-public class main {
+public class Main {
 
     public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
         Person person = new Person(21, "Penka", "Bulgaria");
